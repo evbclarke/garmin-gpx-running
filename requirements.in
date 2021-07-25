@@ -1,0 +1,6 @@
+#requirements.in
+numpy==1.20.2
+pandas==1.2.4
+matplotlib==3.4.1
+sklearn==0.0
+haversine==2.3.1

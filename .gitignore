@@ -1,0 +1,5 @@
+# Ignore local xlsx files
+*.xlsx
+
+# Ignore checkpoints file
+\.ipynb_checkpoints/
